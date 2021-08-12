@@ -14,6 +14,4 @@ My New And Upgraded App To Take Notes! Star And Fork!
 
 - [ ] I still need to configure local storage!
 
-![Metrics](https://metrics.lecoq.io/CodingSpecies?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=https%3A%2F%2Fcodingspecies.github.io%2FSwiftNotes%2F&pagespeed.detailed=true&pagespeed.screenshot=true&config.timezone=Europe%2FLondon)
-
 ## I made this from a tutorial from BradTraversy 50 Projects In 50 Days!
